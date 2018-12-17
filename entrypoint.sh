@@ -52,6 +52,6 @@ do
             fi
     done
 
-    echo "Sleeping ${SLEEP} seconds"    
+    echo "Sleeping ${SLEEP} seconds"
     sleep ${SLEEP}
 done

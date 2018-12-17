@@ -1,6 +1,6 @@
 # docker-domaincheck
 
-Docker container to regularly check status of domain names and notify you by Pushover when a domainname becomes free.
+Docker container to regularly check status of domain names and notify you by Pushover or e-mail when a domainname becomes free.
 
 ## Environment variables
 ### DOMAINS = domain,domain,domain
